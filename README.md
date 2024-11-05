@@ -1,0 +1,2 @@
+# VersionAppAutoInstall
+Version
